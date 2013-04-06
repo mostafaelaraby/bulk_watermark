@@ -1,4 +1,4 @@
-Bulk Watermark generator:
+Welcome to Bulk Watermark Generator 
 Overview
 
 Welcome to bulk watermark generator - an easy to useprogram to add watermark automatically to a set of images.
